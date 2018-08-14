@@ -1,8 +1,0 @@
-{
-  "extends": "loopback",
-  "parserOptions":{
-    "ecmaFeatures": {
-      "experimentalObjectRestSpread": true
-    }
-  }
-}
